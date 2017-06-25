@@ -1,0 +1,20 @@
+{
+  "0000": {
+    "status": "success",
+		"statusCode": "0000",
+		"code": 1,
+		"msg": "指令成功，不顯示"
+  },
+	"0001": {
+    "status": "success",
+    "statusCode": "0001",
+		"code": 1,
+    "msg": "操作成功"
+  },
+	"0002": {
+		"status": "success",
+    "statusCode": "0002",
+		"code": 1,
+    "msg": "無進出場資料"
+	}
+}

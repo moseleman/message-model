@@ -1,0 +1,56 @@
+{
+	"4000": {
+		"status": "error",
+		"statusCode": "4000",
+		"code": 0,
+		"msg": "沒有此會員卡資料"
+	},
+  "4001": {
+    "status": "error",
+    "statusCode": "4001",
+		"code": 0,
+    "msg": "沒有此手機號碼資料"
+  },
+  "4002": {
+    "status": "error",
+    "statusCode": "4002",
+		"code": 0,
+    "msg": "沒有此車號資料"
+  },
+  "4003": {
+    "status": "error",
+    "statusCode": "4003",
+		"code": 0,
+    "msg": "沒有此邀請碼資料"
+  },
+  "4004": {
+    "status": "error",
+    "statusCode": "4004",
+		"code": 0,
+    "msg": "請輸入正確查詢格式"
+  },
+	"4005": {
+    "status": "error",
+    "statusCode": "4005",
+		"code": 0,
+    "msg": "沒有此使用者資料"
+	},
+  "4006": {
+    "status": "error",
+    "statusCode": "4006",
+		"code": 0,
+    "msg": "操作失敗"
+  },
+	"4007": {
+    "status": "error",
+    "statusCode": "4007",
+		"code": 0,
+    "msg": "沒有此客服人員資料"
+  },
+  "4008": {
+    "status": "error",
+    "statusCode": "4008",
+		"code": 0,
+    "msg": "沒有此筆客服紀錄資料"
+  }
+}

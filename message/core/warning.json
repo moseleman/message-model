@@ -1,0 +1,23 @@
+{
+	"2000": {
+		"status": "warning",
+		"statusCode": "2000",
+		"code": 0,
+		"msg": "請先登入",
+		"backurl": "/login"
+	},
+	"2001": {
+		"status": "warning",
+		"statusCode": "2001",
+		"code": 0,
+		"msg": "請重新登入",
+		"backurl": "/login"
+	},
+	"2002": {
+		"status": "warning",
+		"statusCode": "2002",
+		"code": 0,
+		"msg": "使用者已經被停權",
+		"backurl": "/no-permission"
+	}
+}

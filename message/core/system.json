@@ -1,0 +1,20 @@
+{
+  "9000": {
+    "status": "error",
+    "statusCode": "9000",
+		"code": 0,
+    "msg": "參數型態錯誤，不顯示"
+  },
+	"9001": {
+    "status": "error",
+    "statusCode": "9001",
+		"code": 0,
+    "msg": "資料庫連接錯誤"
+  },
+	"9999": {
+    "status": "error",
+    "statusCode": "9999",
+		"code": 0,
+    "msg": "未知的錯誤，請洽系統人員"
+  }
+}
